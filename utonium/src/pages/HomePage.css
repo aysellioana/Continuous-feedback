@@ -1,0 +1,20 @@
+h1{
+    font-family: 'Kalam', cursive;
+    font-size: 50px;
+    font-weight: bolder;
+    
+}
+
+.optiuni{
+    text-align: center;
+    font-family: 'Kalam', cursive;
+    font-size: 20px;
+    list-style-type: none;
+    margin-left: 650px;
+    margin-right: 650px;
+    background-color: pink;
+}
+
+.navbar{
+    text-align: center;
+}

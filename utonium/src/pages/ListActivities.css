@@ -1,0 +1,29 @@
+body {
+    font-family: 'lato', sans-serif;
+}
+
+.container {
+    text-align: center;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+      }
+
+  .responsive-table, li
+    {
+      border-radius: 3px;
+      padding: 25px 30px;
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 1px;
+    }
+
+    .table-header {
+        max-width: 1000px;
+        background-color: #52033a;
+        color: white;
+        font-size: 14px;
+        text-transform: uppercase;
+        letter-spacing: 0.03em;
+        flex-basis: 100%;
+      }
